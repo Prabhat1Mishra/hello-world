@@ -1,5 +1,5 @@
 # hello-world
-just test the repository...
+just test the repository
 last update
 
 

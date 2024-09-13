@@ -1,1 +1,2 @@
 hint:   git config pull.rebase false  # merge
+hint:   git config pull.rebase true   # rebase
